@@ -7,45 +7,69 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Mechanical Engineering at Carnegie Mellon University, focusing on robotics, control, and autonomous systems.
+## 👋 About Me
 
-My work focuses on:
-- Legged robotics and mechanism design
-- Embedded control systems (ESP32, sensors, actuators)
-- Autonomous navigation and perception (SLAM, IMU integration)
+Robotics & Control Engineer focused on legged systems, embedded control, and autonomous navigation.
 
----
-
-## 🔧 Selected Projects
-
-### Dancing Hexapod Robot
-A six-legged assistive performance robot developed for CMU Mechatronic Design in collaboration with AXIS Dance Company.
-
-- Designed Klann linkage mechanism for stable locomotion  
-- Developed motor control and sensing on ESP32  
-- Integrated perception and navigation using Jetson Nano  
-- Focused on smooth, level gait for rider safety  
+I am a M.S. student in Mechanical Engineering at Carnegie Mellon University, specializing in robotics, control systems, and dynamic systems. My work integrates mechanical design, control theory, and embedded systems to build real-world robotic platforms.
 
 ---
 
-### EKF-SLAM and LQR Control
-Simulation of autonomous vehicle navigation using estimation and optimal control.
+## 🎯 Highlights
 
-- Implemented EKF for localization and mapping  
-- Designed LQR controller for trajectory tracking  
-- Integrated estimation and control in a closed-loop system  
+- Built a **6-legged robotic system** integrating mechanical design, embedded control, and system-level architecture  
+- Developed **EKF-SLAM + LQR closed-loop control**, achieving ~1.36 m tracking error and ~100 s completion (250 s limit)  
+- Improved additive manufacturing material uniformity by **~30%** through experimental research  
 
 ---
 
-### RUL Prediction for Turbofan Engines
-Deep learning approach to remaining useful life prediction using NASA C-MAPSS dataset.
+## 🔧 Skills
 
-- Built LSTM and DCNN models for time-series prediction  
-- Compared performance using RMSE and PHM metrics  
-- Analyzed temporal dependencies in degradation modeling  
+**Robotics & Control**  
+EKF, LQR, state estimation, trajectory tracking, system linearization  
+
+**Embedded Systems**  
+ESP32, sensors, motor control, real-time control  
+
+**Programming**  
+Python, MATLAB, PyTorch  
+
+**Simulation & Tools**  
+Webots, MuJoCo, MATLAB (ode45), Simulink  
+
+**Mechanical & Hardware**  
+CAD (Fusion 360), prototyping, experimental validation, instrumentation  
+
+---
+
+## 🚀 What I Work On
+
+My current focus is on building **integrated robotic systems**, including:
+
+- Legged robots for mobility and interaction  
+- Embedded control systems for real-time actuation  
+- Autonomous navigation using perception and estimation  
+
+I am particularly interested in **robotics for assistive technologies and real-world deployment**, where system reliability and control performance are critical.
 
 ---
 
 ## 📄 Resume
 
 [Download my resume](../files/Hongfei_Liu_Resume.pdf)
+
+---
+
+## 📫 Contact
+
+- 📍 Pittsburgh, PA  
+- 🏫 Carnegie Mellon University  
+- ✉️ hongfeil@andrew.cmu.edu  
+- 🐙 https://github.com/liuk70687-dotcom  
+
+---
+
+## 🔗 Projects
+
+👉 View all projects here:  
+[Go to Projects](../portfolio/)
