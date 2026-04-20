@@ -60,16 +60,4 @@ I am particularly interested in **robotics for assistive technologies and real-w
 
 ---
 
-## 📫 Contact
 
-- 📍 Pittsburgh, PA  
-- 🏫 Carnegie Mellon University  
-- ✉️ hongfeil@andrew.cmu.edu  
-- 🐙 https://github.com/liuk70687-dotcom  
-
----
-
-## 🔗 Projects
-
-👉 View all projects here:  
-[Go to Projects](../portfolio/)
