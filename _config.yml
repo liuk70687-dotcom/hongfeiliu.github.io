@@ -23,7 +23,7 @@ repository               : "liuk70687-dotcom/hongfeiliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "大头照.jpg"
   name             : "Hongfei Liu"
   pronouns         : "He/him"  
   bio              : "MS Mechanical Engineering @ CMU. Focus on Robotics, Control, and Autonomous Systems."
