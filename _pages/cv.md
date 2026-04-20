@@ -80,8 +80,3 @@ CAD (Fusion 360), sensors and instrumentation, experimental validation, data ana
 
 ---
 
-## Contact
-
-- Email: hongfeil@andrew.cmu.edu
-- GitHub: [liuk70687-dotcom](https://github.com/liuk70687-dotcom)
-- Location: Pittsburgh, PA
